@@ -1,4 +1,6 @@
 {
 	"cSpell.words": ["nextjs", "svix"],
-	"explorer.compactFolders": false
+	"explorer.compactFolders": false,
+	"files.autoSave": "afterDelay",
+	"files.autoSaveDelay": 250
 }
